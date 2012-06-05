@@ -4,5 +4,5 @@ I've taken Addy Osmani's standard backbone.js todoMVC application from http://ad
 
 There are two new div consoles, unimaginatively called "Console 1" and "Console 2" at the bottom of the screen.  I've set up two instances of a new View called OnScreenConsoleView as views for these consoles.  Each one of the two instances subscribes to different events.  The view for "Console 1", called onScreenConsoleView, will register when any of the checkboxes are clicked.  The view for "Console 2" will register only when the "Mark all as Completed" checkbox is ticked.  
  
-
+Further info: http://www.browniesblog.com/A55CBC/blog.nsf/dx/05062012164520MBR9XE.htm
 
